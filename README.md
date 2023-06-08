@@ -1,5 +1,5 @@
 # Dictionary
-A shell script that gets all relevant definitions from [dictionaryapi.dev](https://github.com/meetDeveloper/freeDictionaryAPI) and prints out a list to the terminal
+A shell script that gets all relevant definitions for a desired word from [dictionaryapi.dev](https://github.com/meetDeveloper/freeDictionaryAPI) and prints out a formatted list to the terminal.
 
 ## Usage
 ```bash
